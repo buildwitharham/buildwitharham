@@ -1,5 +1,5 @@
 # 💫 About Me:
-working on NexSol Tech's official Website as frontend developer
+working on NexSol Tech as frontend developer
 
 
 ## 🌐 Socials:
